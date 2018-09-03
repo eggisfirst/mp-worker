@@ -10,7 +10,8 @@ App({
     wx.setTabBarStyle({
       color: '#e6cdaf',
       backgroundColor: '#000000',
-      borderStyle: 'white'
+      borderStyle: 'white',
+      
     })
 
     // 登录
