@@ -1,7 +1,7 @@
 {
   "pages":[
     "pages/main/main",
-    "pages/index/index",
+    "pages/index/index",    
     "pages/reportForms/reportForms",
     "pages/verifyChange/verifyChange",
     "pages/verify/verify",
